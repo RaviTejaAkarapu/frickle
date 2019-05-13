@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679517607264",
+    "firebase_url": "https://messenger-frickle.firebaseio.com",
+    "project_id": "messenger-frickle",
+    "storage_bucket": "messenger-frickle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679517607264:android:6be36669b3cc52b0",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679517607264-127geucuh3l9lo3fngba7cqkuv58uc84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rl0QhusSiL9VMxODAl-Yl6ww5GZLQ9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679517607264-127geucuh3l9lo3fngba7cqkuv58uc84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
